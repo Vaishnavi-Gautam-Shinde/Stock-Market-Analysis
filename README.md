@@ -11,7 +11,6 @@ the project aims to provide a comprehensive understanding of historical stock ma
 - [Dataset](#dataset)
 - [Project Features](#project-features)
 - [Technologies Used](#technologies-used)
-- [Setup and Installation](#setup-and-installation)
 - [Key Findings](#key-findings)
 - [Future Enhancements](#future-enhancements)
   
@@ -55,28 +54,6 @@ The dataset includes:
   - Jupyter Notebook/Google Collab for interactive analysis
 
 ---
-
-## Setup and Installation
-### Prerequisites
-- Python 3.x
-- Package manager: `pip`
-
-### Installation Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your_username/stock-market-analysis.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd stock-market-analysis
-   ```
-3. Install required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Open the Jupyter Notebook to start the analysis:
-   ```bash
-   jupyter notebook
    ```
 
 ---
